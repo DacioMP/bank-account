@@ -5,3 +5,7 @@ A withdraw may not occur if there is not enough balance or if the withdrawal amo
 See the diagram below.
 
 ![alt text](https://github.com/DacioMP/bank-account/blob/main/img/account_class_diagram.png?raw=true)
+
+
+### Reference
+[Professor Nélio Alves ](https://github.com/acenelio)
